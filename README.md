@@ -1,6 +1,6 @@
 # Data-Science
 
-1. Detecting Parkinson's Disease using XGBoost
+##1. Detecting Parkinson's Disease using XGBoost
 
   - Detecting Parkinson's disease with XGBoost
   - Dataset: UCI ML Parkinson's dataset from https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/
