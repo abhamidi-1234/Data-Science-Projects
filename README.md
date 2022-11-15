@@ -17,3 +17,12 @@
   - AdFuller test to check for stationarity
   - Use AIC and BIC to select optimal parameters for the ARIMA model
   - ARIMA model to predict wind generation
+  
+### 3. Detecting Heart Disease using SVM
+
+  - Dataset from UCI Machine Learning Repository
+  - Deal with missing data
+  - Use One-Hot Encoding for categorical data
+  - Hyper-parameter tuning with GridSearchCV
+  - Visualized the results using PCA by reducing dimentionality
+  - Achieved an accuracy of 89.33%
