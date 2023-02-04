@@ -26,3 +26,11 @@
   - Hyper-parameter tuning with GridSearchCV
   - Visualized the results using PCA by reducing dimentionality
   - Achieved an accuracy of 89.33%
+
+### 4. Stock Price Sentiment Analysis using News Headline
+
+  - Pre-process data by removing numbers and punctuations 
+  - Create bag-of-words model  
+  - Generate unigram and bigram features from 25 news headlines for each company 
+  - Use random forest classifier to predict whether the stock price will increase or decrease
+  - Achieved an accuracy of 85%
