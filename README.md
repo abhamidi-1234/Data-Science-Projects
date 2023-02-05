@@ -34,3 +34,11 @@
   - Generate unigram and bigram features from 25 news headlines for each company 
   - Use random forest classifier to predict whether the stock price will increase or decrease
   - Achieved an accuracy of 85%
+
+### 5. Stock Price Prediction using Stacked LSTM
+
+  - Gather stock data using Yahoo Finance API
+  - Take a window of previous 100 days to use as training data and 101st day as output
+  - Build Stacked LSTM neural network
+  - Predict the stock price
+  -   
