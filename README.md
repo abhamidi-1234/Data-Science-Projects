@@ -41,4 +41,4 @@
   - Take a window of previous 100 days to use as training data and 101st day as output
   - Build Stacked LSTM neural network
   - Predict the stock price
-  -   
+ 
