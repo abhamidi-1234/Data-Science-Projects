@@ -35,7 +35,15 @@
   - Use random forest classifier to predict whether the stock price will increase or decrease
   - Achieved an accuracy of 85%
 
-### 5. Stock Price Prediction using Stacked LSTM
+### 5. Pneumonia Classification using Chest X-Rays
+
+  - Augment the training data by modifying the images
+  - Build the ResNet50 neural network architecture
+  - Add Dropout layers and early stopping to prevent overfitting 
+  - Handle imbalanced data by changing the class weights during training
+  - Achieved an F1-Score of 94%   
+
+### 6. Stock Price Prediction using Stacked LSTM
 
   - Gather stock data using Yahoo Finance API
   - Take a window of previous 100 days to use as training data and 101st day as output
