@@ -35,7 +35,7 @@
   - Use random forest classifier to predict whether the stock price will increase or decrease
   - Achieved an accuracy of 85%
 
-### 5. Pneumonia Classification using Chest X-Rays
+### 5. Pneumonia Classification using Chest X-Rays with ResNet50
 
   - Augment the training data by modifying the images
   - Build the ResNet50 neural network architecture
