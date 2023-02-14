@@ -50,4 +50,11 @@
   - Build Stacked LSTM neural network
   - Predict the stock price
   - Plot an interactive stock price graph with predicted values
+
+### 7. Credit Card Risk Assessment using XGBoost
+
+  - Pre-process the data
+  - Use One-Hot Encoding for categorical data
+  - Hyper-parameter tuning with RandomizedSearchCV
+  - Got an accuracy of 82.14%
  
